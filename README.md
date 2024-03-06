@@ -11,7 +11,7 @@ Welcome to our simple landing page project! This landing page has been created u
 - [License](#license)
 
 ## Demo
-Visit our [live demo](https://your-demo-link.com) to see the landing page in action.
+Visit our [live demo](http://simplelandingpage.com/) to see the landing page in action.
 
 ![Landing Page Screenshot](Landing page.png)
 
@@ -30,6 +30,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 Open the index.html file in your web browser.
 
 ## Usage
+Customize the content and styles based on your project needs. Feel free to modify the HTML and CSS files to match your branding and design preferences.
 ```HTML
 <!-- Example: Changing the heading text -->
 <h1>Welcome to My Awesome Landing Page</h1>
