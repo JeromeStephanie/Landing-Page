@@ -7,8 +7,6 @@ Welcome to our simple landing page project! This landing page has been created u
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 Visit our [live demo]( https://jeromestephanie.github.io/Landing-Page/) to see the landing page in action.
